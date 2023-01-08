@@ -5,6 +5,10 @@ This assignment will get you set up and rolling with a basic project. By the end
 [Project Setup Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-setup)
 
 ## Submission Instructions
+[Submission Instructions](https://education.launchcode.org/liftoff/modules/assignments/project-setup.html#submitting-your-work)
 
 ### Project Repository
-Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+[Github Project Repository](https://github.com/STL-WomenPlus-Mar22-LiftOff/group-Jessica.git)
+
+Also add a README.md file to your project repository.
+	- Complete
