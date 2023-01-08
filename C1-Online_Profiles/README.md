@@ -8,11 +8,14 @@ For this assignment you will need to upload your resume and provide links to you
  
 ### GitHub
 Provide a link to your GitHub account here.
+[Alli Kellerman's Github profile](https://github.com/alliology934)
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+[Alli Kellerman's LinkedIn profile](https://www.linkedin.com/in/allikellerman/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Alli Kellerman's Resume](https://drive.google.com/file/d/1nfUnysO48mZJMiFLzqcuLGfgYLQVlaqO/view?usp=share_link)
 
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+
